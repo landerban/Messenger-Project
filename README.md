@@ -40,6 +40,6 @@ Features
 Technologies Used
 
 	•	Backend: Django, Django Channels, WebSocket
-	•	Frontend: HTML, CSS (you can specify if you used Bootstrap or any other framework)
-	•	Database: SQLite (or specify if you used another database)
-	•	Encryption: Cryptography (Fernet)
+	•	Frontend: HTML, CSS
+	•	Database: SQLite
+•	Encryption: Cryptography (Fernet)
